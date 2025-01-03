@@ -1,2 +1,2 @@
 # detail
-create a project
+create a project for the github.
